@@ -1,4 +1,5 @@
 # FHWA SNBI Error Dashboard
+<img width="3810" height="1774" alt="SNBI Errors" src="https://github.com/user-attachments/assets/4b495ae3-3df6-47fe-8073-3dbf8eeb3578" />
 
 ## Overview
 
