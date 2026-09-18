@@ -1,6 +1,8 @@
 # Inspection Compliance & Workflow Monitoring Dashboard
 
 <img width="3771" height="1736" alt="Inspection_Dash" src="https://github.com/user-attachments/assets/2a19d8f2-c48c-4efc-bf4d-66ee094ab6a6" />
+<img width="3809" height="1768" alt="District_Approval_QC" src="https://github.com/user-attachments/assets/dbb7b929-ab58-4163-bdfa-b116d5973dfd" />
+
 
 ## Overview
 
