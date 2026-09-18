@@ -51,3 +51,9 @@ The dashboard enables users to:
 ## Business Impact
 
 The dashboard transformed large inspection datasets into actionable operational insights, enabling staff to quickly identify compliance risks, prioritize corrective actions, and focus resources on areas requiring immediate attention instead of manually reviewing thousands of inspection records.
+
+## Data Availability
+
+The underlying dataset is not included due to organizational
+data restrictions. The dashboard screenshot has been redacted
+where necessary to remove identifying or non-public information.
