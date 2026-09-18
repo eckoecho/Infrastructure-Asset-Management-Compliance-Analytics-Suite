@@ -1,3 +1,4 @@
+<img width="1903" height="825" alt="FHWA Inspection Compliance" src="https://github.com/user-attachments/assets/94484095-fcb3-4347-ace8-78eb08cd8266" />
 # Inspection Compliance & Workflow Monitoring Dashboard
 
 ## Overview
