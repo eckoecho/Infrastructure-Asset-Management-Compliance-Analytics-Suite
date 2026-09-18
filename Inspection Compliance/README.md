@@ -1,5 +1,6 @@
-<img width="1903" height="825" alt="FHWA Inspection Compliance" src="https://github.com/user-attachments/assets/94484095-fcb3-4347-ace8-78eb08cd8266" />
 # Inspection Compliance & Workflow Monitoring Dashboard
+
+<img width="3771" height="1736" alt="Inspection_Dash" src="https://github.com/user-attachments/assets/2a19d8f2-c48c-4efc-bf4d-66ee094ab6a6" />
 
 ## Overview
 
@@ -35,6 +36,7 @@ The dashboard enables users to:
 
 - Tableau Desktop
 - Tableau Prep
+- Snowflake
 - SQL
 - Excel
 - Data Quality Validation
