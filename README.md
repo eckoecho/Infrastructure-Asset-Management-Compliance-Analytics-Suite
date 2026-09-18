@@ -8,7 +8,7 @@ A collection of analytical applications designed to transform complex infrastruc
 ### 01 — Inspection Compliance
 [1–2 sentence description]
 
-➡️ [View case study](./Inspection Compliance/)
+➡️ [View case study](./Inspection%20Compliance/README.md)
 
 ### 02 — SNBI Data Quality
 [1–2 sentence description]
