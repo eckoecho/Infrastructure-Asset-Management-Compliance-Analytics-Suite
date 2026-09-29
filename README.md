@@ -11,7 +11,7 @@ An executive dashboard designed to monitor inspection compliance, identify overd
 ➡️ [View case study](./Inspection%20Compliance/README.md)
 
 ### 02 — SNBI Data Quality
-[1–2 sentence description]
+An analytical dashboard created to identify and prioritize federal submission errors by geographic region, data field, and severity.
 
 ➡️ [View case study](./SNBI%20Data%20Quality/README.md)
 
