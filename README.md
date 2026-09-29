@@ -13,7 +13,7 @@ A collection of analytical applications designed to transform complex infrastruc
 ### 02 — SNBI Data Quality
 [1–2 sentence description]
 
-➡️ [View case study](./02-snbi-data-quality/)
+➡️ [View case study](./SNBI%20Data%20Quality/README.md)
 
 ### 03 — Follow-Up Actions
 [1–2 sentence description]
