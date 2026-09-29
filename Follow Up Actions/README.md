@@ -1,3 +1,5 @@
+<img width="1895" height="890" alt="FUA_Dash" src="https://github.com/user-attachments/assets/d25e2202-1a99-4f4a-832e-0e3d82c85204" />
+
 # Follow-Up Actions Dashboard
 
 ## Overview
