@@ -32,4 +32,4 @@ A historical trend dashboard developed to monitor documentation deficiencies ove
 
 ## Technologies
 
-### Tableau • SQL • GIS • Tableau Prep • Data Quality • Data Visualization
+### Tableau Desktop • Tableau Prep • SQL • ArcGIS • Data Quality • Dashboard Design
