@@ -66,4 +66,4 @@ The dashboard provides a longitudinal view of documentation quality while highli
 
 ## Business Impact
 
-Enabled stakeholders to move beyond simply identifying deficiencies by providing visibility into long-term performance trends. The dashboard supported accountability, helped measure the effectiveness of data quality initiatives, and allowed leadership to monitor progress toward compliance goals across reporting periods.<img width="1321" height="482" alt="31cd0426-0d4f-4c97-9564-387aa957b436" src="https://github.com/user-attachments/assets/27db68e4-52b3-48af-b726-10ba52f59e4d" />
+Enabled stakeholders to move beyond simply identifying deficiencies by providing visibility into long-term performance trends. The dashboard supported accountability, helped measure the effectiveness of data quality initiatives, and allowed leadership to monitor progress toward compliance goals across reporting periods.
