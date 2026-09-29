@@ -49,7 +49,6 @@ Users can:
 
 - Tableau Desktop
 - Tableau Prep
-- ArcGIS
 - SQL
 - Spatial Data Analysis
 
