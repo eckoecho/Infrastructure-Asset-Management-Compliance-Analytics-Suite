@@ -16,9 +16,11 @@ An analytical dashboard created to identify and prioritize federal submission er
 ➡️ [View case study](./SNBI%20Data%20Quality/README.md)
 
 ### 03 — Follow-Up Actions
-[1–2 sentence description]
+A GIS-enabled operational dashboard developed to monitor infrastructure follow-up actions, repair priorities, and maintenance progress across an entire transportation network.
 
-➡️ [View case study](./03-follow-up-actions/)
+
+
+➡️ [View case study](./Follow%20Up%20Actions/README.md)
 
 ### 04 — Scour Documentation
 [1–2 sentence description]
