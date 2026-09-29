@@ -18,17 +18,15 @@ An analytical dashboard created to identify and prioritize federal submission er
 ### 03 — Follow-Up Actions
 A GIS-enabled operational dashboard developed to monitor infrastructure follow-up actions, repair priorities, and maintenance progress across an entire transportation network.
 
-
-
 ➡️ [View case study](./Follow%20Up%20Actions/README.md)
 
 ### 04 — Scour Documentation
-[1–2 sentence description]
+A GIS-enabled dashboard designed to identify infrastructure assets with missing or incomplete scour evaluation documentation, allowing engineering teams to prioritize corrections and maintain regulatory compliance.
 
 ➡️ [View case study](./04-scour-deficiencies/)
 
 ### 05 — Scour History
-[1–2 sentence description]
+A historical trend dashboard developed to monitor documentation deficiencies over time and measure progress toward improving infrastructure data quality.
 
 ➡️ [View case study](./05-scour-history/)
 
