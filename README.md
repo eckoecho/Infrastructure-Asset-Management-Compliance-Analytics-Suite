@@ -20,7 +20,7 @@ A GIS-enabled operational dashboard developed to monitor infrastructure follow-u
 
 ➡️ [View case study](./Follow%20Up%20Actions/README.md)
 
-### 04 — Scour Documentation
+### 04 — Scour Critical
 A GIS-enabled dashboard designed to identify infrastructure assets with missing or incomplete scour evaluation documentation, allowing engineering teams to prioritize corrections and maintain regulatory compliance.
 
 ➡️ [View case study](./Scour%20Deficiencies/README.md)
