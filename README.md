@@ -6,7 +6,7 @@ A collection of analytical applications designed to transform complex infrastruc
 ## Projects
 
 ### 01 — Inspection Compliance
-[1–2 sentence description]
+An executive dashboard designed to monitor inspection compliance, identify overdue reports, and highlight workflow bottlenecks affecting infrastructure inspection reporting.
 
 ➡️ [View case study](./Inspection%20Compliance/README.md)
 
