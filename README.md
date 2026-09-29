@@ -23,7 +23,7 @@ A GIS-enabled operational dashboard developed to monitor infrastructure follow-u
 ### 04 — Scour Documentation
 A GIS-enabled dashboard designed to identify infrastructure assets with missing or incomplete scour evaluation documentation, allowing engineering teams to prioritize corrections and maintain regulatory compliance.
 
-➡️ [View case study](./04-scour-deficiencies/)
+➡️ [View case study](./Scour%20Deficiencies/README.md)
 
 ### 05 — Scour History
 A historical trend dashboard developed to monitor documentation deficiencies over time and measure progress toward improving infrastructure data quality.
