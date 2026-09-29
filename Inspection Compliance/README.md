@@ -39,7 +39,7 @@ The dashboard enables users to:
 - Tableau Desktop
 - Tableau Prep
 - Snowflake
-- SQL
+- Advanced SQL
 - Excel
 - Data Quality Validation
 
