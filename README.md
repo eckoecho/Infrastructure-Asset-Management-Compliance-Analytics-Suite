@@ -28,8 +28,8 @@ A GIS-enabled dashboard designed to identify infrastructure assets with missing 
 ### 05 — Scour History
 A historical trend dashboard developed to monitor documentation deficiencies over time and measure progress toward improving infrastructure data quality.
 
-➡️ [View case study](./05-scour-history/)
+➡️ [View case study](./Scour%20History/README.md)
 
 ## Technologies
 
-Tableau • SQL • GIS • Tableau Prep • Data Quality • Data Visualization
+### Tableau • SQL • GIS • Tableau Prep • Data Quality • Data Visualization
